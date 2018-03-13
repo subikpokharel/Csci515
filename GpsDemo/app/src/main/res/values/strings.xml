@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GpsDemo</string>
+    <string name="hello">\nHello, GPSDemoActivity</string>
+</resources>

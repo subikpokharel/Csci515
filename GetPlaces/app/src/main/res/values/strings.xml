@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GetPlaces</string>
+    
+    <string name="google_map_key" translatable="false" >AIzaSyAooxlSmJjEa5rHL3BcFD6FxZC5-u1fB3k</string>
+    <string name="google_web_key" translatable="false" >AIzaSyAdvBsMAaOMnzRC21wiSXWehbPSphcNUqE</string>
+</resources>
